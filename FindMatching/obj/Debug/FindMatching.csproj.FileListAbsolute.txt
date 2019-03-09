@@ -1,0 +1,10 @@
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\bin\Debug\FindMatching.exe.config
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\bin\Debug\FindMatching.exe
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\bin\Debug\FindMatching.pdb
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.csprojAssemblyReference.cache
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.Properties.Resources.resources
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.csproj.GenerateResource.cache
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.csproj.CoreCompileInputs.cache
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.exe
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.pdb
+C:\Users\Eyyub TEZCAN\source\repos\OOP\FindMatching\FindMatching\obj\Debug\FindMatching.Form1.resources
